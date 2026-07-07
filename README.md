@@ -4,8 +4,8 @@ Static SEO landing page for the keyword `ธนมน โสภณธนวั�
 
 ## SEO checklist
 
-- Replace placeholder social URLs in `index.html` and JSON-LD `sameAs` with the real profile URLs.
-- Replace `images/thanamon-sophon-thanawat-official-profile.svg` with a real JPG headshot named `thanamon-sophon-thanawat-official-profile.jpg`.
-- Update all `og:image`, `image`, and `<img src>` references if the image filename changes.
+- Real backlinks are included in `index.html` and JSON-LD `sameAs`.
+- The SEO image pack uses JPG files under `images/` with descriptive filenames and Thai alt text.
+- Replace `images/thanamon-sophon-thanawat-official-profile.jpg` with a real headshot using the same filename when available.
 - Submit the live URL and sitemap to Google Search Console.
 - Use the same full Thai name across LinkedIn, GitHub, Facebook, Instagram, and other public profiles.
