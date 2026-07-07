@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yokminasai.github.io/thanamon-sophon-thanawat/sitemap.xml

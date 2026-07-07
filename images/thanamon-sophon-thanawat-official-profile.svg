@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200" role="img" aria-labelledby="title desc">
+  <title id="title">ธนมน โสภณธนวัฒน์ official profile placeholder</title>
+  <desc id="desc">A clean personal branding placeholder for Thanamon Sophonthanawat.</desc>
+  <rect width="1200" height="1200" fill="#e7ece8"/>
+  <circle cx="600" cy="430" r="170" fill="#0f766e"/>
+  <path d="M280 1040c38-200 158-320 320-320s282 120 320 320" fill="#0b4f4a"/>
+  <text x="600" y="1090" text-anchor="middle" fill="#18211f" font-size="58" font-family="Tahoma, sans-serif" font-weight="700">ธนมน โสภณธนวัฒน์</text>
+</svg>
